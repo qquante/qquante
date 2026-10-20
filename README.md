@@ -2,23 +2,14 @@
 
 ### Full Stack Developer · Backend Engineering · Applied AI
 
-<table>
-<tr>
-<td width="36%" valign="top">
+I build full stack applications, data systems, and automation tools, with a focus on backend engineering and applied AI. Developing independent software projects since 2019, across APIs, databases, asynchronous processing, user interfaces, and developer tooling.
 
-<p>I build full stack applications, data systems, and automation tools, with a focus on backend engineering and applied AI.</p>
-<p>Developing independent software projects since 2019, across APIs, databases, asynchronous processing, user interfaces, and developer tooling.</p>
-<p><strong>Open to backend and full stack roles</strong> involving applied AI, automation, developer tools, or data-intensive products.</p>
+**Open to backend and full stack roles** involving applied AI, automation, developer tools, or data-intensive products.
 
-</td>
-<td width="64%" valign="top">
+## Language mix
 
 <img src="assets/language-mix.svg" alt="Language mix across 35 reviewed projects, measured from unique tracked source files" width="720">
 <p><sub>Local, byte-weighted estimate from 35 reviewed repositories, with duplicate source contents counted once. Classification differs from GitHub Linguist. This measures source volume, not proficiency.</sub></p>
-
-</td>
-</tr>
-</table>
 
 ## Technical focus
 
