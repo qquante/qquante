@@ -8,8 +8,7 @@ I build full stack applications, data systems, and automation tools, with a focu
 
 ## Language mix
 
-<img src="assets/language-mix.svg" alt="Language mix across 35 reviewed projects, measured from unique tracked source files" width="720">
-<p><sub>Local, byte-weighted estimate from 35 reviewed repositories, with duplicate source contents counted once. Classification differs from GitHub Linguist. This measures source volume, not proficiency.</sub></p>
+<img src="assets/language-mix.svg" alt="Most used languages across my GitHub repositories" width="720">
 
 ## Technical focus
 
@@ -23,12 +22,14 @@ I build full stack applications, data systems, and automation tools, with a focu
 | Model Context Protocol (MCP) · LLM integrations · local inference | Blockchain data systems · RPC monitoring |
 | Typed output validation · versioned policies · decision records | Electron · browser automation · MQL5 |
 
-## Selected work
+## Selected projects
 
-- **Data platforms:** source-preserving ingestion, normalization, deduplication, and recoverable event delivery.
-- **Agent infrastructure:** isolated Go and Docker workspaces, model access controls, usage records, and MCP policies.
-- **Applied AI workflows:** local inference integrations, typed output checks, versioned policies, and persistent decision records.
-- **Full stack data products:** React and TypeScript interfaces, Node.js services, API integrations, search, caching, and interactive Three.js visualizations.
+- [Market Data Platform](https://github.com/qquante/market-data-platform) — Python/FastAPI ingestion with PostgreSQL, Redis, a transactional outbox, and recoverable event delivery.
+- [Agent Workspace Manager](https://github.com/qquante/agent-workspace-manager) — Go and Docker workspaces with provider access controls, usage records, and MCP policies.
+- [Content Intelligence Engine](https://github.com/qquante/content-intelligence-engine) — Applied AI integrations with typed outputs, evidence-linked assessments, and a persistent decision ledger.
+- [Contract Analysis Runtime](https://github.com/qquante/contract-analysis-runtime) — Resumable security-analysis workflows with explicit evidence states and an MCP interface.
+- [Interactive Retail Storefront](https://github.com/qquante/interactive-retail-storefront) — A React/TypeScript retail prototype with catalogue navigation, a local bag, and Three.js visuals.
+- [Persistent Web Workspaces](https://github.com/qquante/persistent-web-workspaces) — An Electron desktop application for organizing persistent browser profiles and isolated sessions.
 
 I work end to end: clarify the problem, define data and API contracts, build the backend and interface, and validate behavior with automated checks. I pay close attention to persistent state, failure handling, and traceability so workflows can be inspected and resumed.
 

@@ -1,64 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="312" viewBox="0 0 720 312" role="img" aria-labelledby="title desc">
-<title id="title">Douglas Silva portfolio language mix</title>
-<desc id="desc">Byte-weighted programming and markup source mix across 35 prepared projects.</desc>
-<rect width="720" height="100%" rx="14" fill="#0d1117" stroke="#30363d"/>
-<text x="24" y="32" class="title">Most Used Languages</text>
-<text x="24" y="53" class="sub">35 prepared projects · 1,472 unique source files</text>
-<clipPath id="bar"><rect x="24" y="75" width="672" height="12" rx="6"/></clipPath>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="333" viewBox="0 0 720 333" role="img" aria-labelledby="title desc">
+<title id="title">Most Used Languages</title>
+<desc id="desc">Language distribution across Douglas Silva's GitHub repositories.</desc>
+<rect x="0.5" y="0.5" width="719" height="332" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="35" class="title">Most Used Languages</text>
+<clipPath id="bar"><rect x="24" y="54" width="672" height="12" rx="6"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="24.00" y="75" width="383.73" height="12" fill="#3572A5"/>
-<rect x="407.73" y="75" width="90.91" height="12" fill="#E34C26"/>
-<rect x="498.64" y="75" width="90.03" height="12" fill="#F1E05A"/>
-<rect x="588.67" y="75" width="57.56" height="12" fill="#3178C6"/>
-<rect x="646.23" y="75" width="20.00" height="12" fill="#00ADD8"/>
-<rect x="666.23" y="75" width="13.35" height="12" fill="#563D7C"/>
-<rect x="679.58" y="75" width="7.31" height="12" fill="#DEA584"/>
-<rect x="686.88" y="75" width="5.48" height="12" fill="#6E5BC6"/>
-<rect x="692.37" y="75" width="2.35" height="12" fill="#E38C00"/>
-<rect x="694.72" y="75" width="1.04" height="12" fill="#384D54"/>
-<rect x="695.75" y="75" width="0.12" height="12" fill="#012456"/>
-<rect x="695.88" y="75" width="0.10" height="12" fill="#89E051"/>
-<rect x="695.97" y="75" width="0.03" height="12" fill="#E10098"/>
+<rect x="24.0000" y="54" width="332.6137" height="12" fill="#3572A5"/>
+<rect x="356.6137" y="54" width="195.6410" height="12" fill="#3178C6"/>
+<rect x="552.2547" y="54" width="50.8139" height="12" fill="#F1E05A"/>
+<rect x="603.0686" y="54" width="38.1513" height="12" fill="#E34C26"/>
+<rect x="641.2199" y="54" width="21.7643" height="12" fill="#DA5B0B"/>
+<rect x="662.9842" y="54" width="13.1598" height="12" fill="#336790"/>
+<rect x="676.1440" y="54" width="7.4277" height="12" fill="#00ADD8"/>
+<rect x="683.5717" y="54" width="4.9019" height="12" fill="#563D7C"/>
+<rect x="688.4736" y="54" width="2.7138" height="12" fill="#DEA584"/>
+<rect x="691.1874" y="54" width="2.0368" height="12" fill="#6E5BC6"/>
+<rect x="693.2242" y="54" width="1.0803" height="12" fill="#384D54"/>
+<rect x="694.3045" y="54" width="0.7040" height="12" fill="#89E051"/>
+<rect x="695.0085" y="54" width="0.5556" height="12" fill="#012456"/>
+<rect x="695.5642" y="54" width="0.3600" height="12" fill="#AA6746"/>
+<rect x="695.9242" y="54" width="0.0548" height="12" fill="#5B2063"/>
+<rect x="695.9790" y="54" width="0.0163" height="12" fill="#7e7eff"/>
+<rect x="695.9953" y="54" width="0.0043" height="12" fill="#C1F12E"/>
+<rect x="695.9996" y="54" width="0.0004" height="12" fill="#3B2F63"/>
 </g>
-<circle cx="26" cy="115" r="5" fill="#3572A5"/>
-<text x="38" y="119" class="label">Python</text>
-<text x="328" y="119" text-anchor="end" class="value">57.10%</text>
-<circle cx="364" cy="115" r="5" fill="#E34C26"/>
-<text x="376" y="119" class="label">HTML</text>
-<text x="666" y="119" text-anchor="end" class="value">13.53%</text>
-<circle cx="26" cy="140" r="5" fill="#F1E05A"/>
-<text x="38" y="144" class="label">JavaScript</text>
-<text x="328" y="144" text-anchor="end" class="value">13.40%</text>
-<circle cx="364" cy="140" r="5" fill="#3178C6"/>
-<text x="376" y="144" class="label">TypeScript</text>
-<text x="666" y="144" text-anchor="end" class="value">8.57%</text>
-<circle cx="26" cy="165" r="5" fill="#00ADD8"/>
-<text x="38" y="169" class="label">Go</text>
-<text x="328" y="169" text-anchor="end" class="value">2.98%</text>
-<circle cx="364" cy="165" r="5" fill="#563D7C"/>
-<text x="376" y="169" class="label">CSS</text>
-<text x="666" y="169" text-anchor="end" class="value">1.99%</text>
-<circle cx="26" cy="190" r="5" fill="#DEA584"/>
-<text x="38" y="194" class="label">Rust</text>
-<text x="328" y="194" text-anchor="end" class="value">1.09%</text>
-<circle cx="364" cy="190" r="5" fill="#6E5BC6"/>
-<text x="376" y="194" class="label">MQL5</text>
-<text x="666" y="194" text-anchor="end" class="value">0.82%</text>
-<circle cx="26" cy="215" r="5" fill="#E38C00"/>
-<text x="38" y="219" class="label">SQL</text>
-<text x="328" y="219" text-anchor="end" class="value">0.35%</text>
-<circle cx="364" cy="215" r="5" fill="#384D54"/>
-<text x="376" y="219" class="label">Dockerfile</text>
-<text x="666" y="219" text-anchor="end" class="value">0.15%</text>
-<circle cx="26" cy="240" r="5" fill="#012456"/>
-<text x="38" y="244" class="label">PowerShell</text>
-<text x="328" y="244" text-anchor="end" class="value">0.02%</text>
-<circle cx="364" cy="240" r="5" fill="#89E051"/>
-<text x="376" y="244" class="label">Shell</text>
-<text x="666" y="244" text-anchor="end" class="value">0.01%</text>
-<circle cx="26" cy="265" r="5" fill="#E10098"/>
-<text x="38" y="269" class="label">GraphQL</text>
-<text x="328" y="269" text-anchor="end" class="value">&lt;0.01%</text>
-<text x="24" y="301" class="foot">Local byte-weighted estimate · deduplicated source · not GitHub Linguist</text>
-<style>.title{font:700 17px Inter,Arial,sans-serif;fill:#e6edf3}.sub{font:12px Inter,Arial,sans-serif;fill:#8b949e}.label{font:12px Inter,Arial,sans-serif;fill:#c9d1d9}.value{font:11px ui-monospace,monospace;fill:#8b949e}.foot{font:10px Inter,Arial,sans-serif;fill:#6e7681}</style>
+<circle cx="26" cy="94" r="5" fill="#3572A5"/>
+<text x="38" y="98" class="label">Python</text>
+<text x="328" y="98" text-anchor="end" class="value">49.50%</text>
+<circle cx="364" cy="94" r="5" fill="#3178C6"/>
+<text x="376" y="98" class="label">TypeScript</text>
+<text x="666" y="98" text-anchor="end" class="value">29.11%</text>
+<circle cx="26" cy="119" r="5" fill="#F1E05A"/>
+<text x="38" y="123" class="label">JavaScript</text>
+<text x="328" y="123" text-anchor="end" class="value">7.56%</text>
+<circle cx="364" cy="119" r="5" fill="#E34C26"/>
+<text x="376" y="123" class="label">HTML</text>
+<text x="666" y="123" text-anchor="end" class="value">5.68%</text>
+<circle cx="26" cy="144" r="5" fill="#DA5B0B"/>
+<text x="38" y="148" class="label">Jupyter Notebook</text>
+<text x="328" y="148" text-anchor="end" class="value">3.24%</text>
+<circle cx="364" cy="144" r="5" fill="#336790"/>
+<text x="376" y="148" class="label">PLpgSQL</text>
+<text x="666" y="148" text-anchor="end" class="value">1.96%</text>
+<circle cx="26" cy="169" r="5" fill="#00ADD8"/>
+<text x="38" y="173" class="label">Go</text>
+<text x="328" y="173" text-anchor="end" class="value">1.11%</text>
+<circle cx="364" cy="169" r="5" fill="#563D7C"/>
+<text x="376" y="173" class="label">CSS</text>
+<text x="666" y="173" text-anchor="end" class="value">0.73%</text>
+<circle cx="26" cy="194" r="5" fill="#DEA584"/>
+<text x="38" y="198" class="label">Rust</text>
+<text x="328" y="198" text-anchor="end" class="value">0.40%</text>
+<circle cx="364" cy="194" r="5" fill="#6E5BC6"/>
+<text x="376" y="198" class="label">MQL5</text>
+<text x="666" y="198" text-anchor="end" class="value">0.30%</text>
+<circle cx="26" cy="219" r="5" fill="#384D54"/>
+<text x="38" y="223" class="label">Dockerfile</text>
+<text x="328" y="223" text-anchor="end" class="value">0.16%</text>
+<circle cx="364" cy="219" r="5" fill="#89E051"/>
+<text x="376" y="223" class="label">Shell</text>
+<text x="666" y="223" text-anchor="end" class="value">0.10%</text>
+<circle cx="26" cy="244" r="5" fill="#012456"/>
+<text x="38" y="248" class="label">PowerShell</text>
+<text x="328" y="248" text-anchor="end" class="value">0.08%</text>
+<circle cx="364" cy="244" r="5" fill="#AA6746"/>
+<text x="376" y="248" class="label">Solidity</text>
+<text x="666" y="248" text-anchor="end" class="value">0.05%</text>
+<circle cx="26" cy="269" r="5" fill="#5B2063"/>
+<text x="38" y="273" class="label">Gherkin</text>
+<text x="328" y="273" text-anchor="end" class="value">&lt;0.01%</text>
+<circle cx="364" cy="269" r="5" fill="#7e7eff"/>
+<text x="376" y="273" class="label">Nix</text>
+<text x="666" y="273" text-anchor="end" class="value">&lt;0.01%</text>
+<circle cx="26" cy="294" r="5" fill="#C1F12E"/>
+<text x="38" y="298" class="label">Batchfile</text>
+<text x="328" y="298" text-anchor="end" class="value">&lt;0.01%</text>
+<circle cx="364" cy="294" r="5" fill="#3B2F63"/>
+<text x="376" y="298" class="label">Procfile</text>
+<text x="666" y="298" text-anchor="end" class="value">&lt;0.01%</text>
+<style>.title{font:700 19px Arial,sans-serif;fill:#e6edf3}.label{font:14px Arial,sans-serif;fill:#c9d1d9}.value{font:12px ui-monospace,monospace;fill:#8b949e}</style>
 </svg>
